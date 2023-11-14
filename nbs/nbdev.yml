@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "incremental stuff"
+  site-url: "https://kg.github.io/incremental stuff"
+  description: "incremental doing"
+  repo-branch: main
+  repo-url: "https://github.com/kg/incremental stuff"
