@@ -4,5 +4,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/inkr-ee',
                 'doc_host': 'https://klmrgrss.github.io',
                 'git_url': 'https://github.com/klmrgrss/inkr-ee',
-                'lib_path': 'inkr-ee'},
-  'syms': {'incremental stuff.core': {'incremental stuff.core.foo': ('core.html#foo', 'incremental stuff/core.py')}}}
+                'lib_path': 'inkr_ee'},
+  'syms': {'inkr_ee.core': {'inkr_ee.core.foo': ('core.html#foo', 'inkr_ee/core.py')}}}

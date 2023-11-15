@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "incremental stuff"
-  site-url: "https://kg.github.io/incremental stuff"
-  description: "incremental doing"
+  title: "inkr-ee"
+  site-url: "https://klmrgrss.github.io/inkr-ee"
+  description: "kirjeldus"
   repo-branch: main
-  repo-url: "https://github.com/kg/incremental stuff"
+  repo-url: "https://github.com/klmrgrss/inkr-ee"
